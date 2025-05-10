@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/skkuding_stduy_week4/static/css/main.43a45e61.css",
-    "main.js": "/skkuding_stduy_week4/static/js/main.286086a8.js",
-    "static/js/453.a4a9243c.chunk.js": "/skkuding_stduy_week4/static/js/453.a4a9243c.chunk.js",
-    "index.html": "/skkuding_stduy_week4/index.html",
-    "main.43a45e61.css.map": "/skkuding_stduy_week4/static/css/main.43a45e61.css.map",
-    "main.286086a8.js.map": "/skkuding_stduy_week4/static/js/main.286086a8.js.map",
-    "453.a4a9243c.chunk.js.map": "/skkuding_stduy_week4/static/js/453.a4a9243c.chunk.js.map"
+    "main.css": "/skkuding_study_week4/static/css/main.43a45e61.css",
+    "main.js": "/skkuding_study_week4/static/js/main.d131a81a.js",
+    "static/js/453.a4a9243c.chunk.js": "/skkuding_study_week4/static/js/453.a4a9243c.chunk.js",
+    "index.html": "/skkuding_study_week4/index.html",
+    "main.43a45e61.css.map": "/skkuding_study_week4/static/css/main.43a45e61.css.map",
+    "main.d131a81a.js.map": "/skkuding_study_week4/static/js/main.d131a81a.js.map",
+    "453.a4a9243c.chunk.js.map": "/skkuding_study_week4/static/js/453.a4a9243c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.43a45e61.css",
-    "static/js/main.286086a8.js"
+    "static/js/main.d131a81a.js"
   ]
 }
