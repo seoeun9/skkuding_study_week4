@@ -16,7 +16,7 @@ export default function PokemonItem({ setClicked }: PokemonItemProps){
                                 window.localStorage.setItem("pr_item", JSON.stringify(item));
                                 setClicked(true);
                             }}>                            
-                            <img src={`images/${item.name}.png`} alt={`${item.name}`}></img>
+                            <img src={`${process.env.PUBLIC_URL}/images/${item.name}.png`} alt={item.name}></img>
                             <text>
                                 <div className="h2">
                                     <b>{item.name}</b><br />

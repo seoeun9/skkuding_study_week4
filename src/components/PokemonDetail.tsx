@@ -17,7 +17,7 @@ export default function PokemonDetail(){
     return (
             <div className="body">
                 <div className="img-wrapper">
-                    <img src={`images/${item.name}.png`} alt={item.name} />
+                    <img src={`${process.env.PUBLIC_URL}/images/${item.name}.png`} alt={item.name} />
                 </div>
                 <table className="infoTable">
                     <tbody>
